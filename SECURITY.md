@@ -65,5 +65,5 @@ For secure message handling:
 ## Security Contacts
 
 * Security Email: security@frostgate.tech
-* Discord: https://discord.gg/frostgate
+* Discord: https://discord.gg/cFZeVnQ8PB
 * Twitter: @frostgate 

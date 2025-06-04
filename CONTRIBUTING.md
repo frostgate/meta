@@ -91,7 +91,7 @@ frostgate/
 
 ## Getting Help
 
-* Join our [Discord](https://discord.gg/frostgate)
+* Join our [Discord]https://discord.gg/cFZeVnQ8PB)
 * Check out the [documentation](https://github.com/frostgate/frostgate-docs/)
 * Ask in GitHub Issues
 
@@ -109,7 +109,7 @@ The core team reviews Pull Requests on a regular basis. After feedback has been 
 
 ## Community
 
-* Join our [Discord](https://discord.gg/frostgate)
+* Join our [Discord](https://discord.gg/cFZeVnQ8PB)
 * Follow us on [Twitter](https://twitter.com/devfrostgate)
 * Read our [blog](https://medium.com/@frostgate)
 
